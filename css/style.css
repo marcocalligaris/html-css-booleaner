@@ -7,5 +7,16 @@ header{
 #bool-logo{
     width: 300px;
     height: 60px;
-    margin: 0;
+}
+
+.grey-text{
+    color: grey;
+}
+
+#blue-text{
+    color: lightblue;
+}
+
+.date{
+    font-size: 10px;
 }
