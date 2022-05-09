@@ -54,3 +54,18 @@ th{
     text-align: left;
 }
 
+#lorem1{
+    color: white;
+    width: 300px;
+    height: 250px;
+    background-image: url(../img/graph.jpg);
+    padding: 15px;
+}
+
+#lorem2{
+    color: white;
+    width: 300px;
+    height: 250px;
+    background-image: url(../img/monitor.jpg);
+    padding: 15px;
+}
