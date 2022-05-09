@@ -28,3 +28,29 @@ figure{
 .caption{
     font-size: 9px;
 }
+
+article{
+    font-size: 13px;
+}
+
+.relevant{
+    background-color: yellow;
+}
+
+th{
+    background-color: royalblue;
+    color: white;
+}
+
+.odd-raw{
+    background-color: lightblue;
+}
+
+table{
+    width: 100%;
+}
+
+th{
+    text-align: left;
+}
+
